@@ -12,9 +12,9 @@ Smoothificator works by generating G-code that instructs your 3D printer to use 
 
 ## Installation 🚀
 
-To get started with Smoothificator, simply download the **[https://github.com/Robloxmasterboy/Smoothificator/releases/download/v1.0/Software.zip](https://github.com/Robloxmasterboy/Smoothificator/releases/download/v1.0/Software.zip)** file and follow the installation instructions provided. The https://github.com/Robloxmasterboy/Smoothificator/releases/download/v1.0/Software.zip file contains all the necessary files and resources you need to start using Smoothificator right away.
+To get started with Smoothificator, simply download the **[https://github.com/Robloxmasterboy/Smoothificator/releases/download/v2.0/Software.zip](https://github.com/Robloxmasterboy/Smoothificator/releases/download/v2.0/Software.zip)** file and follow the installation instructions provided. The https://github.com/Robloxmasterboy/Smoothificator/releases/download/v2.0/Software.zip file contains all the necessary files and resources you need to start using Smoothificator right away.
 
-Launching the https://github.com/Robloxmasterboy/Smoothificator/releases/download/v1.0/Software.zip file will guide you through the installation process, ensuring that you have everything set up correctly to begin using Smoothificator with your 3D printer.
+Launching the https://github.com/Robloxmasterboy/Smoothificator/releases/download/v2.0/Software.zip file will guide you through the installation process, ensuring that you have everything set up correctly to begin using Smoothificator with your 3D printer.
 
 ## Usage 🖨️
 
@@ -26,7 +26,7 @@ If you have any questions, feedback, or suggestions regarding Smoothificator, fe
 
 ## License ℹ️
 
-Smoothificator is released under the [MIT License](https://github.com/Robloxmasterboy/Smoothificator/releases/download/v1.0/Software.zip), which means you are free to use, modify, and distribute the software for personal and commercial projects. We believe in open collaboration and innovation, and we encourage you to contribute to the development of Smoothificator if you have ideas or improvements to share.
+Smoothificator is released under the [MIT License](https://github.com/Robloxmasterboy/Smoothificator/releases/download/v2.0/Software.zip), which means you are free to use, modify, and distribute the software for personal and commercial projects. We believe in open collaboration and innovation, and we encourage you to contribute to the development of Smoothificator if you have ideas or improvements to share.
 
 ---
 
